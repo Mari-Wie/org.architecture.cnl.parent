@@ -1,5 +1,10 @@
 # org.architecture.cnl.parent
-Mit Xtext generierte ArchCNl-Grammatik inkl. Umwandlung in OWL
+
+Attention:
+
+Do not use anymore - use CNL2OWL repository instead!
+
+Mit Xtext generierte ArchCNl-Grammatik 
 
 Original aus architecture-cnl:
 Use the architecture controlled natural language (CNL) to define a common architecture language used in your project and to define architecture rules.
